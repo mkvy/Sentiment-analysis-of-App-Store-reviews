@@ -1,5 +1,6 @@
 # Sentiment-analysis-of-App-Store-reviews
 EN
+
 Sentiment analysis using machine learning alghoritms to predict positive/negative reviews.
 File text_classifier.py contains Naive Bayes model.
 File neural_check.py contains realisation of deep feedforward neural net.
@@ -13,6 +14,7 @@ Accuracy for Naive Bayes model is about 82%.
 Accuracy for neural net is about 79%. F1 score is 79%. ROC AUC is 85%. Precision - 79%, Recall - 80.3%.
 
 RU
+
 Анализ тональности с использованием алгоритмов машинного обучения.
 В файле text_classifier.py реализована модель наивного Байеса.
 В файле neural_check.py реализована модель нейронной сети глубокого обучения.
